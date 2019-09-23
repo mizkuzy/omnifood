@@ -247,6 +247,20 @@ header {
     border-bottom: 2px solid #e15f41;
 }
 
+/* --------- MOBILE NAVI ---------- */
+
+.mobile-nav-icon {
+    display: none;
+    float: right;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.mobile-nav-icon i {
+    font-size: 300%;
+    color: white;
+}
+
 /* --------- STICKY NAVI ---------- */
 
 .sticky {
